@@ -9983,7 +9983,7 @@ h6,
   list-style-type: none;
 }
 
-.video-circle video{
+.video-circle {
   border-radius: 50%;
   object-fit: cover;
 }
